@@ -1,5 +1,3 @@
-{-# LANGUAGE GeneralizedNewtypeDeriving, FlexibleInstances #-}
-
 import Zipper
 import Data.Word
 import System.Environment
